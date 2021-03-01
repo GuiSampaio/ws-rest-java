@@ -27,5 +27,5 @@ Finally, document the relevant points in readme.md and post to some public git r
  
        - Encontrar todas as corridas da temporada /findF1RacesBySeasonAndRound?year={ano}&round={round}
     
-       - Encontrar todas as classificações da temporada /findF1StandingsBySeasonAndRound?year={ano}&round={ano}
+       - Encontrar todas as classificações da temporada /findF1StandingsBySeasonAndRound?year={ano}&round={round}
 
